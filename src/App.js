@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+import { HashRouter, Switch, Route } from "react-router-dom";
 import "./App.css";
 import Navbar from "./components/Navbar/Navbar";
 import Sidebar from "./components/Navbar/Sidebar";
@@ -22,7 +22,7 @@ function App() {
 
   return (
     <div className="PayTackApp">
-      <Router>
+      <HashRouter>
         <Navbar menuToggle={menuToggle} />
         <Sidebar isMenuOpen={isMenuOpen} menuToggle={menuToggle} />
         <Switch>
@@ -35,7 +35,7 @@ function App() {
           <Route path="/becomepartner" component={Partner} />
         </Switch>
         <Footer />
-      </Router>
+      </HashRouter>
     </div>
   );
 }
