@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1445" height="684" viewBox="0 0 1445 684">
+    <defs>
+        <linearGradient id="wk5xtmx7ja" x2=".994" y1=".129" y2=".899" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#e3e4f7" stop-opacity=".239"/>
+            <stop offset="1" stop-color="#e3e4f7" stop-opacity=".012"/>
+        </linearGradient>
+    </defs>
+    <path fill="url(#wk5xtmx7ja)" d="M554 0h891v684H0V554A554 554 0 0 1 554 0z"/>
+</svg>

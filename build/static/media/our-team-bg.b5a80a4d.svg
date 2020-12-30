@@ -1,0 +1,24 @@
+<svg width="1920" height="1170" viewBox="0 0 1920 1170" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M1921 204.446V1057.66H165.487V911.335C165.487 745.96 212.541 557.876 372.758 433.334C532.975 308.792 712.813 256.506 1003.64 324.811C1294.47 393.117 1524.41 419.928 1765.36 309.491C1831.5 279.177 1882.22 242.177 1921 204.446Z" fill="url(#paint0_linear)"/>
+<ellipse cx="148.053" cy="343.159" rx="6.05259" ry="6.12589" fill="#2ECDBB" fill-opacity="0.1"/>
+<ellipse cx="148.053" cy="383.24" rx="6.05259" ry="6.12589" fill="#2ECDBB" fill-opacity="0.1"/>
+<ellipse cx="148.053" cy="423.321" rx="6.05259" ry="6.12589" fill="#2ECDBB" fill-opacity="0.1"/>
+<ellipse cx="187.654" cy="343.159" rx="6.05259" ry="6.12589" fill="#2ECDBB" fill-opacity="0.1"/>
+<ellipse cx="187.654" cy="383.24" rx="6.05259" ry="6.12589" fill="#2ECDBB" fill-opacity="0.1"/>
+<ellipse cx="187.654" cy="423.321" rx="6.05259" ry="6.12589" fill="#2ECDBB" fill-opacity="0.1"/>
+<ellipse cx="227.255" cy="343.159" rx="6.05259" ry="6.12589" fill="#2ECDBB" fill-opacity="0.1"/>
+<ellipse cx="227.255" cy="383.24" rx="6.05259" ry="6.12589" fill="#2ECDBB" fill-opacity="0.1"/>
+<ellipse cx="227.255" cy="423.321" rx="6.05259" ry="6.12589" fill="#2ECDBB" fill-opacity="0.1"/>
+<path d="M1721 1148.75C1763.53 1148.75 1798 1113.63 1798 1070.31C1798 1026.99 1763.53 991.869 1721 991.869C1678.47 991.869 1644 1026.99 1644 1070.31C1644 1113.63 1678.47 1148.75 1721 1148.75Z" stroke="#31D4C3" stroke-width="30"/>
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="1921" height="1170">
+<rect width="1921" height="1170" fill="#C4C4C4"/>
+</mask>
+<g mask="url(#mask0)">
+</g>
+<defs>
+<linearGradient id="paint0_linear" x1="165.487" y1="387.099" x2="772.863" y2="1683.12" gradientUnits="userSpaceOnUse">
+<stop stop-color="#E3E4F7" stop-opacity="0.239"/>
+<stop offset="1" stop-color="#E3E4F7" stop-opacity="0.012"/>
+</linearGradient>
+</defs>
+</svg>

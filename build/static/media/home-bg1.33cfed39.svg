@@ -1,0 +1,40 @@
+<svg width="1920" height="2000" viewBox="0 0 1920 2000" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g clip-path="url(#clip0)">
+<path opacity="0.15" d="M128 198.5C128 212.583 139.641 224 154 224C168.359 224 180 212.583 180 198.5C180 184.417 168.359 173 154 173C139.641 173 128 184.417 128 198.5Z" fill="#2BC5B4"/>
+</g>
+<g clip-path="url(#clip1)">
+<path opacity="0.19" d="M960 677C960 689.15 969.85 699 982 699C994.15 699 1004 689.15 1004 677C1004 664.85 994.15 655 982 655C969.85 655 960 664.85 960 677Z" fill="#F79256"/>
+</g>
+<rect x="1729" y="689" width="86" height="86" fill="url(#pattern0)"/>
+<rect x="678" y="316" width="58" height="58" fill="url(#pattern1)"/>
+<rect x="1547" y="67" width="73" height="73" fill="url(#pattern2)"/>
+<g clip-path="url(#clip2)">
+<path opacity="0.15" d="M698 1202C698 1222.99 715.013 1240 736 1240C756.987 1240 774 1222.99 774 1202C774 1181.01 756.987 1164 736 1164C715.013 1164 698 1181.01 698 1202Z" fill="#2BC5B4"/>
+</g>
+<rect x="364" y="1440" width="86" height="86" fill="url(#pattern3)"/>
+<defs>
+<pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0" transform="scale(0.0116279)"/>
+</pattern>
+<pattern id="pattern1" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0" transform="scale(0.0116279)"/>
+</pattern>
+<pattern id="pattern2" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image1" transform="scale(0.0116279)"/>
+</pattern>
+<pattern id="pattern3" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image1" transform="scale(0.0116279)"/>
+</pattern>
+<clipPath id="clip0">
+<rect width="52" height="51" fill="white" transform="translate(128 173)"/>
+</clipPath>
+<clipPath id="clip1">
+<rect width="44" height="44" fill="white" transform="translate(960 655)"/>
+</clipPath>
+<clipPath id="clip2">
+<rect width="76" height="76" fill="white" transform="translate(698 1164)"/>
+</clipPath>
+<image id="image0" width="86" height="86" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFYAAABWCAMAAABiiJHFAAAANlBMVEUAAAAzzJkzzMwnxLEnxMQnxLEnxLomxrMrxLMrzLMpxbUtw7Qty7Qsxa8sxbYpyLMow7X///9sjOWFAAAAEXRSTlMABQUNDRoaGx4eHyIiIyMlJtCffmwAAAABYktHRBHitT26AAAArklEQVRYw+2WwQ6DIBAFF1CpgIX//9oeGlNJQHTTHprMHDfzolnBPBERmXzKyTs54b5iQ3kTbC+hUOyz7GymE1EooXxY2xmFMpUjzeVpFF8NllZGo6RqEFsZjZKrQW5lNMqP3rbeyjxe3DXFjT+zSjmeuMf4UF5V7Da+QhrFrPtTTO/C6xS3xBzn09/TdxQAAID/gpJPyafkU/Ip+ZR8AACg5FPyKfmUfEo+Jf8eLyajXnil4jE1AAAAAElFTkSuQmCC"/>
+<image id="image1" width="86" height="86" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFYAAABWBAMAAACneHzEAAAAMFBMVEUAAAD/mWb/iU7/nU71k1j2jlX3kVX/kVX3jFL3lFL4llP4llr4klf4kVr4lFf////oLB3MAAAAD3RSTlMABQ0NGhseHh8fIiIjJSY2enr4AAAAAWJLR0QPGLoA2QAAANdJREFUSMdjYGAw3bvVgAEZMEffDkYRgCuRfPfu3QsBJAnGeUCRRmSlMCWM54CMdweRZGRAAm+QdMOVcILod8+R1M4DixQgBOBK7MCMdwoI10IEHiHUwpXEQRgOcBlWiMAThFq4kn0QxgK4DDdE4BVCLVzJPQjjAlyGFyLwFqEWroQUc0lxLynhwAGmnyGFbx9YJAEhAFdCSrwxiIP0oKSHOqBIInJ6QChRWbtEASVVMXndckJNZxhKRsEoGAW0B6N1wGgdMFoHjIJRMFoHjNYBo3XAkKsDAPG5vLcXiGn4AAAAAElFTkSuQmCC"/>
+</defs>
+</svg>

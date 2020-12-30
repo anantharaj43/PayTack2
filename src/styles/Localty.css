@@ -1,0 +1,43 @@
+.loyalty-banner .h1.hero-main__title {
+  font-size: 36px;
+}
+
+.loyalty-banner .hero-paragraph {
+  font-size: 20px;
+}
+
+.loyalty-banner .hero-banner__container {
+  display: flex;
+  align-items: center;
+}
+
+/* .loyalty .hero-banner{
+  width: 100%;
+  position: relative;
+  overflow: hidden;
+  max-height: 800px;
+  background-image: url("../images/home/home-bg-main1.svg");
+  background-repeat: no-repeat;
+  background-size: contain;
+} */
+.loyalty .hero-banner{
+  background-image: none;
+}
+@media (min-width: 768px) and (max-width: 1024px) {
+}
+
+@media screen and (max-width: 767px) {
+
+  .loyalty-banner .hero-banner__container,
+  .localty-app .loyalty-how-it-works .container-body__card-left {
+    display: block;
+  }
+  .loyalty-banner h1.hero-main__title {
+    font-size: 36px;
+  }
+  section.container.join-us .container-body .join-us__bottom {
+    position: relative;
+    bottom: 25%;
+    padding: 0;
+  }
+}

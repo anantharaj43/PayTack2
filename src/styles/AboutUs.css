@@ -1,0 +1,32 @@
+.our-team {
+  background-image: url("../images/aboutus/our-team-bg.svg");
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+section.container.about-us .about-section p {
+  font-size: 18px;
+}
+section.container.our-teams .container-body__card {
+  flex-wrap: wrap;
+  align-items: baseline;
+}
+
+section.container.our-teams
+  .container-body__card
+  .container-body__card-avatar
+  p {
+  font-size: 14px;
+}
+section.container.our-teams
+  .container-body__card
+  .container-body__card-avatar
+  h3 {
+  margin: 10px 0;
+}
+section.container.our-teams
+  .container-body__card
+  .container-body__card-avatar
+  img.container-avatar__image {
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.2);
+}

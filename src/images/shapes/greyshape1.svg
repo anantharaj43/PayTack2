@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="658.592" height="412.516" viewBox="0 0 658.592 412.516">
+    <defs>
+        <linearGradient id="sdrvfrybra" x1="1.137" x2=".088" y1=".224" y2=".8" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#e3e4f7"/>
+            <stop offset="1" stop-color="#e3e4f7" stop-opacity=".349"/>
+        </linearGradient>
+    </defs>
+    <path fill="url(#sdrvfrybra)" d="M-583.952-29.315c-24.625 146.574-17.589 275.56 64.493 301.357s179.925-109.051 357.642-109.051 223.965 71.528 223.965 71.528v-371.713z" transform="translate(596.444 137.194)"/>
+</svg>
